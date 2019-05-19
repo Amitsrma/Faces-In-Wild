@@ -9,4 +9,4 @@ Training and testing data is provided by kaggle.
 Following is the link to competition: https://www.kaggle.com/c/recognizing-faces-in-the-wild/overview
 
 Currently attempting the following algorithm:
-![alt text](https://i.stack.imgur.com/Dg2QX.png)
+![alt text](https://raw.githubusercontent.com/Amitsrma/Faces-In-Wild/master/FlowChart.png)
