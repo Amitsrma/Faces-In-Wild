@@ -7,3 +7,6 @@ This code is a part of solution attempt from me to check if we can know if two p
 Training and testing data is provided by kaggle.
 
 Following is the link to competition: https://www.kaggle.com/c/recognizing-faces-in-the-wild/overview
+
+Currently attempting the following algorithm:
+![alt text](https://i.stack.imgur.com/Dg2QX.png)
