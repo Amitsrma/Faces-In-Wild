@@ -9,4 +9,5 @@ Training and testing data is provided by kaggle.
 Following is the link to competition: https://www.kaggle.com/c/recognizing-faces-in-the-wild/overview
 
 Currently attempting the following algorithm:
+Working on the way to use two convolutions and merge them.
 ![alt text](https://raw.githubusercontent.com/Amitsrma/Faces-In-Wild/master/FlowChart.png)
